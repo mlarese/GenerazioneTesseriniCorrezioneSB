@@ -4,7 +4,7 @@ import com.acme.autorizzazioni.persone.Persona;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+//test
 @Data
 @NoArgsConstructor
 public class LicenzaCaccia extends LicenzaImp {
