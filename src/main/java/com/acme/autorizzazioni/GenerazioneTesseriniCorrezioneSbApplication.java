@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-//messo in branchs modifica fatta in creazione-tesserini
+//messo in br creazione-tesserini
 public class GenerazioneTesseriniCorrezioneSbApplication {
 	// fatto in main
 	public static void main(String[] args) {
